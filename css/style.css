@@ -12,6 +12,12 @@
   cursor: pointer;
 }
 
+.dark-overlay {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+}
+
 .bg-black {
   color: #fff;
   background: #000;
